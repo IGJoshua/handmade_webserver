@@ -1,0 +1,7 @@
+[package]
+name = "handmade_webserver"
+version = "0.1.0"
+authors = ["Joshua Suskalo <JZSuskalo@Student.FullSail.edu>"]
+edition = "2018"
+
+[dependencies]
